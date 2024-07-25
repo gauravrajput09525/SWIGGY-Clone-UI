@@ -1,0 +1,191 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.main{
+    border: 2px solid orange;
+    height: 1250px;
+    width: 800px;
+    border-radius: 5px;
+   margin-left: 300PX;
+}
+.work{
+margin-left: 100px;
+cursor: pointer;
+}
+.work p{
+   display: flex;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   word-spacing: 3px;
+}
+.work i{
+font-size: 18px;
+border: 1px solid;
+height: 27px;
+width: 28px;
+padding-left: 10px;
+padding-top: 5px;
+border-radius: 50%;
+color: rgb(255, 254, 254);
+background-color: rgb(0, 0, 0);
+
+ 
+}
+.work button{
+    border: 1px solid orange;
+    height: 25px;
+    width: 43px; 
+    color: orange;
+    border-radius: 25px;
+    margin-right: 80px;
+ 
+}
+.search_con{
+    margin-top: 40px;
+    position: relative;
+}
+.search_con input{
+    width: 620px;
+    font-size: 20px;
+    padding: 18px 18px;
+    margin-left: 100px;
+    margin-top: -30px;
+    border-radius: 12px;
+    border: none;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.2); 
+} 
+.search_con i{
+    margin-left: -35px;
+    cursor: pointer;
+}
+.card img{
+    margin-left: 545px;
+    margin-top: 60px;
+}
+.card h2{
+    margin-left: 100px;
+    margin-top: -130px;
+    color: rgb(141, 6, 6);
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card button{
+    margin-left: 102px;
+    margin-top: 25px;
+    padding: 8px 20px;
+    border-radius: 25px;
+    font-size: 18px;
+    color: white;
+    background-color: orangered;
+
+}
+.card button:hover{
+    background-color: rgb(140, 140, 233);
+    cursor: pointer;
+}
+.image_src{
+    
+   margin-top: 50px;
+   width: 270px;
+   height: 250px;
+   margin-left: 10px;
+   border-radius: 25px;
+   box-shadow: 2px 2px 2px 2px rgb(214, 199, 199);
+}
+.image_src:hover{
+    background-color: rgb(205, 199, 199);
+}
+.food h3{
+    padding-left: 10px;
+    padding-top: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.from p{
+    line-height: 28px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: gray;
+}
+.off button{
+    border-radius: 25px;
+    margin-left: 10px;
+    padding: 3px 3px;
+    color: orangered;
+    background-color: rgb(250, 230, 193);
+    border-color: rgb(250, 230, 193) ;
+}
+.image img{
+    margin-left: 100px;
+   
+}
+.head{
+    height: 600px;
+    width: 600px;
+   display: inline-block;
+   margin-top: 3px;
+   margin-left: 90px;
+   display: flex; 
+} 
+.class1{
+    flex-direction: column;
+    padding: 10px;
+}
+.class2{
+    flex-direction: column;
+    padding: 10px;
+}
+.creadit_card{
+    border: 2px solid orange;
+    border-radius: 20px;
+    height: 70px;
+    width: 550px;
+    margin-left: 95px;
+    line-height: 25px;
+}
+.creadit_card h3{
+    margin-left: 10px;
+    color: orangered;
+    padding-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.creadit_card p{
+    margin-left: 10px;
+    color: orange;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.creadit_card img{
+    float: right;
+    margin-top: -54px;
+    margin-right: 5px;
+}
+.container{
+    border: 1px solid rgb(244, 239, 239);
+    height: 80px;
+    width: 650px;
+    margin-left: 79px;
+    background-color: white ;
+    box-shadow: 5px 5px rgb(244, 239, 239);
+}
+.container img{
+    margin: 5px 2px;
+    margin-left: 4px;
+    cursor: pointer;
+}
+.container i:hover{
+   cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
